@@ -1,8 +1,6 @@
-# 3DOF Robotic Arm — ROS 2
+# 3DOF Robotic
 
-A small 3-DOF robotic arm built from scratch in ROS 2 Jazzy as a learning project.
-
-The goal is not to build a sophisticated robot, but to understand the core ROS 2 concepts by actually building something: robot description, transforms, nodes, topics, visualization, and eventually kinematics.
+A small 3-DOF robotic arm built from scratch in ROS 2 Jazzy as a learning project to understand the core ROS 2 concepts robot description, transforms, nodes, topics, visualization, and eventually kinematics.
 
 ## Current State
 
@@ -39,3 +37,6 @@ joint_state_publisher_gui
        │
        ▼
       RViz
+```
+Some visuals:
+<img width="1260" height="945" alt="image" src="https://github.com/user-attachments/assets/cebf9787-49e6-452f-a139-c2e10ad52236" />
